@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hixiu.framework</groupId>
     <artifactId>framework-bom</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
     <packaging>pom</packaging>
     <name>framework-bom</name>
     <description>Demo project for Spring Boot</description>
@@ -174,22 +174,22 @@
             <dependency>
                 <groupId>com.hixiu.framework</groupId>
                 <artifactId>common</artifactId>
-                <version>1.0.1</version>
+                <version>1.0.6</version>
             </dependency>
             <dependency>
                 <groupId>com.hixiu.framework</groupId>
                 <artifactId>redis-spring-boot-starter</artifactId>
-                <version>1.0.1</version>
+                <version>1.0.6</version>
             </dependency>
             <dependency>
                 <groupId>com.hixiu.framework</groupId>
                 <artifactId>datasource-spring-boot-starter</artifactId>
-                <version>1.0.1</version>
+                <version>1.0.6</version>
             </dependency>
             <dependency>
                 <groupId>com.hixiu.framework</groupId>
                 <artifactId>dubbo-spring-boot-starter</artifactId>
-                <version>1.0.1</version>
+                <version>1.0.6</version>
             </dependency>
             <!--<dependency>-->
                 <!--<groupId>org.springframework.boot</groupId>-->
