@@ -51,7 +51,7 @@
         <commons-lang3.version>3.4</commons-lang3.version>
         <commons-beanutils.version>1.9.2</commons-beanutils.version>
         <commons.collections.version>3.2.1</commons.collections.version>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <hibernate-validator.version>6.0.9.Final</hibernate-validator.version>
         <lombok.version>1.16.16</lombok.version>
         <servlet.version>2.5</servlet.version>
